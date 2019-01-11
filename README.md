@@ -1,2 +1,1 @@
-# heap-checker
-This school project checks whether a data structure created by the addElt() or remElt() methods is a valid heap or not.
+This was a school project in which the professor provided some of the data structures code and I wrote the majority of the methods. I wrote the methods in HeapChecker, DataBT, MtBT, and all of the test cases for JUnit in Examples with a project partner. 
